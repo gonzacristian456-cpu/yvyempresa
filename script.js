@@ -15,7 +15,7 @@ function enviarWhatsApp() {
 
     const numero = '3764219326'; // NÚMERO
 
-    const mensaje = `Hola YERBAVIVA 🧉%0A
+    const mensaje = `Hola YVY 🧉%0A
 Mi nombre es: ${nombre}%0A
 Quiero pedir: ${pedido}`;
 
