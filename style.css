@@ -50,13 +50,7 @@ nav {
     gap: 20px;
 }
 
-nav a {
-    color: white;
-    text-decoration: none;
-    margin-left: 25px;
-    font-weight: bold;
-    transition: 0.3s;
-}
+
 
 nav a:hover {
     color: #8ef58e;
