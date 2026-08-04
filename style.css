@@ -42,6 +42,12 @@ header {
     font-size: 28px;
     letter-spacing: 2px;
 }
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
 
 
 nav a {
