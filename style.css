@@ -43,6 +43,13 @@ header {
     letter-spacing: 2px;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
 nav a {
     color: white;
     text-decoration: none;
