@@ -3,7 +3,7 @@ function hacerPedido() {
     window.location.href = '#contacto';
 }
 
-// Enviar pedido por WhatsApp
+
 function enviarWhatsApp() {
     const nombre = document.getElementById('nombre').value;
     const pedido = document.getElementById('pedido').value;
@@ -13,7 +13,7 @@ function enviarWhatsApp() {
         return;
     }
 
-    const numero = '3764219326'; // NÚMERO
+    const numero = '3764846615'; // NÚMERO
 
     const mensaje = `Hola YVY 🧉%0A
 Mi nombre es: ${nombre}%0A
@@ -24,7 +24,7 @@ Quiero pedir: ${pedido}`;
     window.open(url, '_blank');
 }
 
-// Efecto de aparición al hacer scroll
+
 const cards = document.querySelectorAll('.card');
 
 window.addEventListener('scroll', () => {
